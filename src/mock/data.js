@@ -24,7 +24,7 @@ export const aboutData = {
     'I have recently mastered JavaScript, Node.js, React.js and I am eager to learn more technologies.',
   paragraphThree:
     'Becoming a developer is a career change - I used to work at PlayStation as a Video Games Quality Assurance Tester in the UK for over 5 years and this dream led me to discover programming, and a love for crafting code and building products.',
-  resume: 'https://github.com/sandrinecao/sandrinecao.github.io/blob/source/CV_Sandrine_Cao.pdf', // if no resume, the button will not show up
+  resume: 'https://sandrinecao.github.io/resume/', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA

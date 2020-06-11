@@ -14,7 +14,7 @@ export const heroData = {
   subtitle: 'A French Software Developer looking for a six-month-internship.',
   cta: 'Read More',
 };
-
+// Do not forget to run "npm run deploy" within the gatsby-simplefolio to update your resume.
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.png',
